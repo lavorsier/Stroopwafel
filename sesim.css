@@ -1,0 +1,52 @@
+body {
+    background: rgb(9, 93, 99);
+    background-image: url(https://wallpapercave.com/wp/wp4507817.jpg);
+    color: rgb(255, 238, 199);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#inicio{
+    justify-content: start;
+    padding: 40px;
+    padding-right: 30%;
+    padding-left: 10%;
+    background: rgba(3, 35, 37, 0.164);
+}
+
+#pato{
+    display: flex; 
+    justify-content: center;
+    padding: 40px;
+    background: rgba(9, 93, 99, 0.54);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+#ps {
+    font-size: 17px;
+    text-align: center;
+    font-style: italic;
+}
+
+em strong {
+    color: orange;
+}
+
+a {
+    text-align: center;
+    font-size: 20px;
+    color:orange;
+    background:  rgba(9, 93, 99, 0.54);
+    padding: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+    font-style: unset;
+    
+}
